@@ -69,6 +69,7 @@ const answers=[
     '{userName}気配り{userName}',
     '{userName}そのすべて{userName}',
     '{userName}自制心{userName}',
+    '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。',
 ];
 /*
     名前の文字列を渡すと診断結果を返す関数
